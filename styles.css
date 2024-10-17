@@ -1,0 +1,17 @@
+body{
+  background-color:#5a9c7c;
+  text-align:center;
+}
+#text-input{
+  padding:10px;
+  margin:15px;
+  font-size:24px;
+  border-radius:5px;
+  background-color:#054f3c;
+}
+#check-btn{
+  height:35px;
+  background-color:#0f158a;
+  border-radius:7px;
+  width:80px;
+}
